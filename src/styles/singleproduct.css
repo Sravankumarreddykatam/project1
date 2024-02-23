@@ -1,0 +1,15 @@
+.single
+{
+    text-align: center;
+    
+}
+button
+{
+    margin: 15px;
+    border-radius: 15px;
+    border: none;
+    color: black;
+    background-color: gold;
+    padding: 10px 25px;
+    font-size: x-large;
+}

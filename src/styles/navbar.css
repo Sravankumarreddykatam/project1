@@ -1,0 +1,29 @@
+a
+{
+  text-decoration: none;
+  display: inline;
+  margin: 25px;
+  color: black;
+
+
+
+ 
+}
+.links
+{
+  margin-left: 950px;
+ position: absolute;
+ top: 30px;
+}
+
+
+.navbar
+{
+    background-color:yellowgreen;
+    outline: 2px solid magenta;
+    border-radius: 10px;
+    
+   
+
+    
+}
